@@ -1,0 +1,26 @@
+{
+  "name": "practice_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkrsmanovic/practice_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkrsmanovic/practice_1/issues"
+  },
+  "homepage": "https://github.com/bkrsmanovic/practice_1#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.8.0"
+  }
+}

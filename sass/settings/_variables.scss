@@ -1,0 +1,39 @@
+$link-color: #039be5 !default;
+
+$roboto-font-path: "../fonts/roboto/" !default;
+
+//Social colors
+$fb-color: #3B5998;
+$tw-color: #55ACEE;
+$gplus-color: #DD4B39;
+$yt-color: #CD201F;
+$li-color: #0082CA;
+$pin-color: #C61118;
+$ins-color: #3F729B;
+$git-color: #4183C4;
+$comm-color: #30CFC0;
+$vk-color: #4C75A3;
+$drib-color: #C32361;
+
+
+/*** Global ***/
+// Media Query Ranges
+$small-screen-up: 601px !default;
+$medium-screen-up: 993px !default;
+$large-screen-up: 1201px !default;
+$small-screen: 600px !default;
+$medium-screen: 992px !default;
+$large-screen: 1200px !default;
+
+$medium-up: "only screen and (min-width : #{$small-screen-up})" !default;
+$large-up: "only screen and (min-width : #{$medium-screen-up})" !default;
+$small-down: "only screen and (max-width : #{$small-screen})" !default;
+$medium-down: "only screen and (max-width : #{$medium-screen})" !default;
+$medium-only: "only screen and (min-width : #{$small-screen-up}) and (max-width : #{$medium-screen})" !default;
+
+$grid-columns: 12 !default;
+$grid-gutter-width: 30px !default;
+
+$container-sm: 580px !default;
+$container-md: 970px !default;
+$container-lg: 1180px !default;
